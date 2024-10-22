@@ -1,0 +1,11 @@
+.tabunderLine {
+  color: #fec653;
+  text-decoration: underline;
+  text-decoration-thickness: 5px;
+}
+.btn {
+  width: 80px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+}

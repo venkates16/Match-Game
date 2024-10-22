@@ -1,0 +1,13 @@
+li img {
+  width: 120px;
+  height: 80px;
+}
+@media (ax-width: 678px) {
+  li img {
+    width: 40px;
+    height: 80px;
+  }
+}
+button {
+  cursor: pointer;
+}
